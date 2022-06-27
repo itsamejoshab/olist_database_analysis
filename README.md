@@ -11,17 +11,17 @@ about orders associated with customers sellers their payment methods products an
 *The dataset is available at Kaggle on this [link](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=product_category_name_translation.csv)*
 
 *In this project, first we construct database from scratch then we perform an in-depth `analysis` of customer sellers and their orders and gain some critical `insights`
-about the orders volume, delivery time, valuable customer markets, important sellers by revenue, etc using `PostgreSQL`*
+about the orders volume, delivery time, valuable customer markets, important sellers by revenue, etc using `PostgreSQL` and `RQL` (a python SQL generator)*
 
 *We perform analysis on four major categories of data provided by Olist*
 
-|   **Analysis**|   **Markdown**|   **Notebook**|
+|   **Analysis**|   **Markdown**|   **SQL Notebook**| **RQL Notebook** |
 |---|---|---|
-|   Frequency of Orders| [md](Frequency_analysis_of_orders/)   | [notebook](Frequency_analysis_of_orders/Frequency_analysis_of_orders.ipynb)  |
-|   Customers| [md](Customer_analysis)  | [notebook](Customer_analysis/Customer_analysis.ipynb)  |
-|   Sellers|[md](Seller_analysis/)   | [notebook](Seller_analysis/Seller_analysis.ipynb)  |
-|   Products| [md](Product_analysis/)  |[notebook](Product_analysis/Product_Analysis.ipynb)|
-|   Miscelleaneous| [md](Miscellaneous/)  |[notebook](Miscellaneous/Miscellaneous.ipynb)   |
+|   Frequency of Orders| [md](Frequency_analysis_of_orders/)   | [notebook](Frequency_analysis_of_orders/Frequency_analysis_of_orders.ipynb)  | [notebook](Frequency_analysis_of_orders/RQL_Frequency_analysis_of_orders.ipynb) |
+|   Customers| [md](Customer_analysis)  | [notebook](Customer_analysis/Customer_analysis.ipynb)  | |
+|   Sellers|[md](Seller_analysis/)   | [notebook](Seller_analysis/Seller_analysis.ipynb)  | |
+|   Products| [md](Product_analysis/)  |[notebook](Product_analysis/Product_Analysis.ipynb)| |
+|   Miscelleaneous| [md](Miscellaneous/)  |[notebook](Miscellaneous/Miscellaneous.ipynb)   | |
 
 ### **How to use the database**
 
