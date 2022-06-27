@@ -16,12 +16,12 @@ about the orders volume, delivery time, valuable customer markets, important sel
 *We perform analysis on four major categories of data provided by Olist*
 
 |   **Analysis**|   **Markdown**|   **SQL Notebook**| **RQL Notebook** |
-|---|---|---|
+|---|---|---|---|
 |   Frequency of Orders| [md](Frequency_analysis_of_orders/)   | [notebook](Frequency_analysis_of_orders/Frequency_analysis_of_orders.ipynb)  | [notebook](Frequency_analysis_of_orders/RQL_Frequency_analysis_of_orders.ipynb) |
-|   Customers| [md](Customer_analysis)  | [notebook](Customer_analysis/Customer_analysis.ipynb)  | |
-|   Sellers|[md](Seller_analysis/)   | [notebook](Seller_analysis/Seller_analysis.ipynb)  | |
-|   Products| [md](Product_analysis/)  |[notebook](Product_analysis/Product_Analysis.ipynb)| |
-|   Miscelleaneous| [md](Miscellaneous/)  |[notebook](Miscellaneous/Miscellaneous.ipynb)   | |
+|   Customers| [md](Customer_analysis)  | [notebook](Customer_analysis/Customer_analysis.ipynb)  | tbd |
+|   Sellers|[md](Seller_analysis/)   | [notebook](Seller_analysis/Seller_analysis.ipynb)  | tbd |
+|   Products| [md](Product_analysis/)  |[notebook](Product_analysis/Product_Analysis.ipynb)| tbd |
+|   Miscelleaneous| [md](Miscellaneous/)  |[notebook](Miscellaneous/Miscellaneous.ipynb)   | tbd |
 
 ### **How to use the database**
 
